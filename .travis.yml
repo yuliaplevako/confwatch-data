@@ -6,5 +6,11 @@ go:
 git:
   depth: 3
 
+install:
+  - go get "github.com/ConfWatch/confwatchd"
+  - cd "${GOPATH}/src/github.com/ConfWatch/confwatchd"
+  - make
+
 script:
-  - ./travis-test-script.sh
+  - ./confwatchd -config dev-config.json -seed "${TRAVIS_BUILD_DIR}/"
+
