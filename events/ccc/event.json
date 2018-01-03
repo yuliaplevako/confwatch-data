@@ -1,5 +1,6 @@
 {
 	"title": "CCC",
 	"description": "The Chaos Computer Club e. V. (CCC) is Europe's largest association of hackers. For more than thirty years we are providing information about technical and societal issues, such as surveillance, privacy, freedom of information, hacktivism, data security and many other interesting things around technology and hacking issues.",
-	"website": "https://www.ccc.de/"
+	"website": "https://www.ccc.de/",
+    "categories": [ "infosec", "politics" ]
 }
