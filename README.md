@@ -1,7 +1,16 @@
-ConfWatch Data
-=
+<p align="center">
+  <img alt="ConfWatch Logo" src="https://raw.githubusercontent.com/ConfWatch/confwatchd/master/static/img/avatar.png" height="140" />
+  <h3 align="center"><a href="https://confwatch.ninja/" target="_blank">https://confwatch.ninja/</a></h3>
+  <p align="center">Discover hacking conferences around the world.</p>
+  <p align="center">
+    <a href="/LICENSE"><img alt="Software License" src="https://img.shields.io/badge/license-GPL3-brightgreen.svg?style=flat-square"></a>
+    <a href="https://travis-ci.org/ConfWatch/confwatchd"><img alt="Travis" src="https://img.shields.io/travis/ConfWatch/confwatchd/master.svg?style=flat-square"></a>
+  </p>
+</p>
 
-This repository contains the data files for the [ConfWatch project](http://confwatch.ninja/).
+---
+
+This repository contains the data files for the ConfWatch project, it is from the community for the community <3
 
 Contributing
 ==
