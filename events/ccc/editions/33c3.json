@@ -1,0 +1,14 @@
+{
+    "title": "33c3",
+    "type": 0,
+    "description": "33c3 bla bla bla bla.",
+    "website": "https://events.ccc.de/tag/33c3/",
+    "country": "DE",
+    "city": "Hamburg",
+    "address": "Congress Center Hamburg",
+    "starts": "2016-12-27T09:00:00+01:00",
+    "ends": "2016-12-30T18:00:00+01:00",
+    "attributes": [
+        "kids-friendly"
+    ]
+}
