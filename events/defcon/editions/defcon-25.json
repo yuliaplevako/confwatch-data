@@ -9,7 +9,6 @@
 	"starts": "2017-07-27T09:00:00+01:00",
 	"ends": "2017-07-30T22:00:00+01:00",
 	"attributes": [
-		"code-of-conduct",
-		"kids-friendly"
+		"code-of-conduct"
 	]
 }
