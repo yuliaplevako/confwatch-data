@@ -13,4 +13,4 @@ before_install:
   - make
 
 script:
-  - "'$GOPATH/src/github.com/ConfWatch/confwatchd/confwatchd' -config '$GOPATH/src/github.com/ConfWatch/confwatchd/dev-config.json' -seed ."
+  - "$GOPATH/src/github.com/ConfWatch/confwatchd/confwatchd" -config "$GOPATH/src/github.com/ConfWatch/confwatchd/dev-config.json" -seed .
