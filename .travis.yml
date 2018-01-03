@@ -1,0 +1,19 @@
+language: go
+sudo: false
+go:
+  - 1.9.x
+
+git:
+  depth: 3
+
+before_install:
+  - git clone https://github.com/ConfWatch/confwatchd $GOPATH/src/github.com/ConfWatch/confwatchd
+  - cd $GOPATH/src/github.com/ConfWatch/confwatchd
+  - make deps
+  - make
+
+go_import_path: github.com/ConfWatch/confwatchd
+
+script:
+  - "$GOPATH/src/github.com/ConfWatch/confwatchd/confwatchd" -config "$GOPATH/src/github.com/ConfWatch/confwatchd/dev-config.json" -seed .
+

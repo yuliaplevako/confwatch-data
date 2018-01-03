@@ -4,7 +4,7 @@
   <p align="center">Discover hacking conferences around the world.</p>
   <p align="center">
     <a href="/LICENSE"><img alt="Software License" src="https://img.shields.io/badge/license-GPL3-brightgreen.svg?style=flat-square"></a>
-    <a href="https://travis-ci.org/ConfWatch/confwatchd"><img alt="Travis" src="https://img.shields.io/travis/ConfWatch/confwatchd/master.svg?style=flat-square"></a>
+    <a href="https://travis-ci.org/ConfWatch/confwatch-data"><img alt="Travis" src="https://img.shields.io/travis/ConfWatch/confwatch-data/master.svg?style=flat-square"></a>
   </p>
 </p>
 
