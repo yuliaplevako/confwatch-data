@@ -22,7 +22,8 @@ Which is represented as the `kids-friendly.json` file:
 {
    "title": "Kids Friendly",
    "description": "The event has kids friendly facilities."
-}```
+}
+```
 
 Events
 ===
