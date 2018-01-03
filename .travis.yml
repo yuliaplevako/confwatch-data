@@ -8,7 +8,7 @@ git:
 
 before_install:
   - rm -rf "$GOPATH/src/github.com/ConfWatch/confwatchd"
-  - git clone https://github.com/ConfWatch/confwatchd "$GOPATH/src/github.com/ConfWatch/confwatchd"
+  - go get "github.com/ConfWatch/confwatchd"
   - cd "$GOPATH/src/github.com/ConfWatch/confwatchd"
   - make deps
   - make
