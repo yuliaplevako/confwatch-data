@@ -15,4 +15,4 @@ before_install:
 go_import_path: github.com/ConfWatch/confwatchd
 
 script:
-  - "$GOPATH/src/github.com/ConfWatch/confwatchd/confwatchd" -config "$GOPATH/src/github.com/ConfWatch/confwatchd/dev-config.json" -seed .
+  - "'$GOPATH/src/github.com/ConfWatch/confwatchd/confwatchd' -config '$GOPATH/src/github.com/ConfWatch/confwatchd/dev-config.json' -seed ."
