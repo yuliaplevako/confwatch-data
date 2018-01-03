@@ -1,0 +1,15 @@
+{
+	"title": "WarCon 2016",
+	"type": 0,
+	"description": "",
+	"website": "http://warcon.pl/2016/",
+	"country": "PL",
+	"city": "Warsaw",
+	"address": "",
+	"starts": "2016-06-03T09:00:00+01:00",
+	"ends": "2016-06-04T22:00:00+01:00",
+    "tags": "warcon2016,warcon",
+	"attributes": [
+		"invite-only"
+	]
+}
