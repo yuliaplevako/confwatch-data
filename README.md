@@ -29,8 +29,8 @@ Which is represented as the `kids-friendly.json` file:
 
 ```json
 {
-   "title": "Kids Friendly",
-   "description": "The event has kids friendly facilities."
+	"title": "Kids Friendly",
+	"description": "The event has kids friendly facilities."
 }
 ```
 
@@ -41,8 +41,8 @@ Similarly to the attributes, the `categories` contains json files of the events 
 
 ```json
 {
-   "title": "InfoSec",
-   "description": "Information security."
+	"title": "InfoSec",
+	"description": "Information security."
 }
 ```
 
@@ -53,10 +53,10 @@ Events are represented as sub folders of the root `events` folder, each one havi
 
 ```json
 {
-    "title": "defcon",
-    "description": "originally started in 1993, it was a meant to be a party for member of \"platinum net\", a fido protocol based hacking network out of canada. as the main u.s. hub i was helping the platinum net organizer (i forget his name) plan a closing party for all the member bbs systems and their users. he was going to shut down the network when his dad took a new job and had to move away.",
-    "website": "https://www.defcon.org/",
-    "categories": [ "infosec" ]
+	"title": "defcon",
+	"description": "originally started in 1993, it was a meant to be a party for member of \"platinum net\", a fido protocol based hacking network out of canada. as the main u.s. hub i was helping the platinum net organizer (i forget his name) plan a closing party for all the member bbs systems and their users. he was going to shut down the network when his dad took a new job and had to move away.",
+	"website": "https://www.defcon.org/",
+	"categories": ["infosec"]
 }
 ```
 
@@ -75,9 +75,9 @@ Each event has an `editions` subfolder containing json files for each of the pas
 	"city": "Las Vegas",
 	"address": "Caesar Palace Hotel",
 	"starts": "2017-07-27T09:00:00+01:00",
-    "ends": "2017-07-30T22:00:00+01:00",
-    "tags": "defcon,defcon25,dc25",
-    "attributes": [
+	"ends": "2017-07-30T22:00:00+01:00",
+	"tags": "defcon,defcon25,dc25",
+	"attributes": [
 		"code-of-conduct"
 	]
 }
