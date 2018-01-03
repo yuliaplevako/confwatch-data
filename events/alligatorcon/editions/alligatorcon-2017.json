@@ -1,0 +1,15 @@
+{
+	"title": "AlligatorCon Europe 2017",
+	"type": 0,
+	"description": "If you have received an invitation by official means, you are welcome to the 2017 edition of AlligatorCon Europe. If you've been here last year, you know the drill – friendly hackers, free booze, no-nonsense technical talks and partying all night in Kraków, the Best City in the World (tm). If you're new, congratulations on joining the mayhem and insanity of the Alligator!",
+	"website": "http://alligatorcon.pl/",
+	"country": "PL",
+	"city": "Krakow",
+	"address": "",
+	"starts": "2017-08-25T09:00:00+01:00",
+	"ends": "2017-08-26T22:00:00+01:00",
+	"tags": "alligatorcon",
+	"attributes": [
+		"invite-only"
+	]
+}
