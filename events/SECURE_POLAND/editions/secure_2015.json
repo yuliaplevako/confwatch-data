@@ -1,0 +1,13 @@
+{
+	"title": "SECURE 2015",
+	"type": 0,
+	"description": "SECURE Conference is an unique opportunity to listen to leading security experts from Poland and abroad. It also presents the latest knowledge on current threats and trends in ICT security as well as gives occasion to exchange experience with experts.",
+	"website": "https://www.secure.edu.pl/",
+	"country": "PL",
+	"city": "Warsaw",
+	"address": "Copernicus Science Centre",
+	"starts": "2015-10-14T09:00:00+01:00",
+	"ends": "2015-10-15T18:00:00+01:00",
+    "tags": "secure",
+	"attributes": []
+}
