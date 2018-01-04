@@ -1,0 +1,13 @@
+{
+	"title": "HackInBo Spring Edition 2018",
+	"type": 0,
+	"description": "HackInBo è il primo evento totalmente gratuito sulla Sicurezza Informatica nella città di Bologna. L’evento nasce per sopperire alla mancanza di una manifestazione di questo tipo sul territorio Bolognese. Ci sarà l’occasione per parlare e incontrare esperti del settore in un’atmosfera rilassata e collaborativa cogliendo l’occasione per rimanere aggiornati sulle ultime tematiche riguardanti l’IT-Security.",
+	"website": "https://hackinbo.it/",
+	"country": "IT",
+	"city": "Bologna",
+	"address": "Viale Ilic Uijanov Lenin 43",
+	"starts": "2017-07-27T09:00:00+01:00",
+	"ends": "2017-07-30T22:00:00+01:00",
+    "tags": "hackinbo,hib18",
+	"attributes": []
+}
