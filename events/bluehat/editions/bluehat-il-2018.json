@@ -1,0 +1,13 @@
+{
+	"title": "BlueHat Israel 2018",
+	"type": 0,
+	"description": "You asked, we delivered. Following last year’s successful event, the Microsoft Israel R&D Center is continuing the tradition with the 2nd edition of the BlueHat IL security conference in Tel Aviv, on Jan 23-24, 2018. Complete with TOP global speakers, awesome hack sessions, challenges and the best crowd you can ask for, this exclusive event is the place to be.",
+	"website": "http://www.bluehatil.com/",
+	"country": "IL",
+	"city": "Tel Aviv",
+	"address": "19 HaTsfira St",
+	"starts": "2018-01-23T09:00:00+01:00",
+	"ends": "2018-01-24T22:00:00+01:00",
+    "tags": "bluehat,bluehatil",
+	"attributes": []
+}
