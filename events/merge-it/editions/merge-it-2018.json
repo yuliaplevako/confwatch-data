@@ -1,0 +1,27 @@
+{
+	"title": "MERGE-it 2018",
+	"type": 0,
+	"description": "Bootstrap",
+	"website": "https://merge-it.net",
+	"country": "IT",
+	"city": "Torino",
+	"address": "Piazza Vittorio Veneto",
+	"starts": "2018-03-23T18:30:00+01:00",
+	"ends": "2018-01-24T22:00:00+01:00",
+    "tags": "devconf",
+	"attributes": []
+}
+
+{
+	"title": "MERGE-it 2018",
+	"type": 0,
+	"description": "Main Event",
+	"website": "https://merge-it.net",
+	"country": "IT",
+	"city": "Torino",
+	"address": "Cittadella Politecnica",
+	"starts": "2018-03-24T09:00:00+01:00",
+	"ends": "2018-01-24T17:00:00+01:00",
+    "tags": "devconf",
+	"attributes": []
+}
