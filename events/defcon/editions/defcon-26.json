@@ -1,0 +1,15 @@
+{
+	"title": "DEFCON 26",
+	"type": 0,
+	"description": "DEFCON 2018, 26th Def-Con Hacking Conference is among one of the most main event on Computer, Information Technology, Cyber Security, Software, Hacking and Hack topics.",
+	"website": "https://www.defcon.org/html/defcon-26/dc-26-index.html",
+	"country": "US",
+	"city": "Las Vegas",
+	"address": "Caesar Palace Hotel",
+	"starts": "2018-08-09T09:00:00+01:00",
+	"ends": "2018-08-12T22:00:00+01:00",
+    "tags": "defcon,defcon26,dc26",
+	"attributes": [
+		"code-of-conduct"
+	]
+}
