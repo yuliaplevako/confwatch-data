@@ -1,0 +1,13 @@
+{
+	"title": "AVTokyo 2017",
+	"type": 0,
+	"description": "AVTOKYO is the Japanese community oriented Computer Security Short Conference.\n\nAVtokyo used to be the drinking party right after the Black Hat Japan until 2007. It worked as the relaxed networking party to exchange information only among the Black Hat Japan attendees.",
+	"website": "http://en.avtokyo.org/avtokyo2017",
+	"country": "JP",
+	"city": "Tokyo",
+	"address": "CLUB SIX TOKYO",
+	"starts": "2017-11-11T12:50:00+01:00",
+	"ends": "2017-11-11T20:00:00+01:00",
+    "tags": "avtokyo,avtokyo2017",
+	"attributes": []
+}
