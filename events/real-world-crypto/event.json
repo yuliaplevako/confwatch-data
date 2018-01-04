@@ -1,0 +1,6 @@
+{
+	"title": "Real World Crypto",
+	"description": "Real World Crypto Symposium aims to bring together cryptography researchers with developers implementing cryptography in real-world systems. The conference goal is to strengthen the dialogue between these two communities. Topics covered focus on uses of cryptography in real-world environments such as the Internet, the cloud, and embedded devices.",
+	"website": "https://rwc.iacr.org/index.html",
+    "categories": [ "infosec", "cryptography" ]
+}
