@@ -1,0 +1,13 @@
+{
+	"title": "BSides Rome 2018",
+	"type": 0,
+	"description": "Information Security conference where professionals, experts, researcher, and InfoSec enthusiasts come together to discuss the next big thing.",
+	"website": "https://www.bsidesroma.it/",
+	"country": "IT",
+	"city": "Rome",
+	"address": "Centro Congressi del Dipartimento di Informatica, Via Salaria, 113",
+	"starts": "2018-01-13T09:00:00+01:00",
+	"ends": "2018-01-13T22:00:00+01:00",
+    "tags": "bsides,bsidesroma",
+	"attributes": []
+}
