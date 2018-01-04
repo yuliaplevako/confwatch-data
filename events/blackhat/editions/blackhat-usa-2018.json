@@ -1,0 +1,13 @@
+{
+	"title": "BlackHat USA 2018",
+	"type": 0,
+	"description": "",
+	"website": "https://www.blackhat.com/usa-18/",
+	"country": "US",
+	"city": "Las Vegas",
+	"address": "Mandalay Bay Hotel",
+	"starts": "2018-08-08T09:00:00+01:00",
+	"ends": "2018-08-09T22:00:00+01:00",
+    "tags": "blackhat,bhusa,blackhatusa",
+	"attributes": []
+}
