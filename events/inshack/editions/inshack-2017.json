@@ -1,0 +1,13 @@
+{
+	"title": "INS'hAck 2017",
+	"type": 0,
+	"description": "3 talks (Sébastien Mériot : Introduction to malware analysis / Tetrane : Introduction to reverse engineering with live demos / khack40 CTF team : tips and tricks for CTFs) followed by an online and onsite CTF. Prizes for onsite winners, free pizza for all onsite contestants !",
+	"website": "https://inshack.insecurity-insa.fr",
+	"country": "FR",
+	"city": "Lyon",
+	"address": "INSA Lyon, 20 avenue Albert Einstein, 69100 Villeurbanne",
+	"starts": "2017-04-06T14:00:00+01:00",
+	"ends": "2017-04-07T01:00:00+01:00",
+    "tags": "inshack",
+	"attributes": []
+}

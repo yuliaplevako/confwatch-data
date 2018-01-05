@@ -1,0 +1,6 @@
+{
+	"title": "INS'hAck",
+	"description": "Usually a series of 3 talks about general infosec topics followed by an onsite and online CTF. The event is hosted by InSecurity, a student society based at university INSA Lyon (France). Talks are in French, there are prizes for onsite CTF winners and free pizza for all onsite contestants !",
+	"website": "https://inshack.insecurity-insa.fr",
+    "categories": [ "infosec" ]
+}

@@ -1,0 +1,13 @@
+{
+	"title": "INS'hAck 2016",
+	"type": 0,
+	"description": "3 talks (Benjamin Grapeloup & Hicham Ben Hassine : Review of common vulnerabilities in web applications / Julien Cayssol : Pentest - How to check your architecture's strength / Vincent Nguyen : CERT audit - how to react to an attack) followed by an online and onsite CTF. Prizes for onsite winners, free pizza for all onsite contestants !",
+	"website": "https://inshack.insecurity-insa.fr",
+	"country": "FR",
+	"city": "Lyon",
+	"address": "INSA Lyon, 20 avenue Albert Einstein, 69100 Villeurbanne",
+	"starts": "2016-04-07T14:00:00+01:00",
+	"ends": "2016-04-08T01:00:00+01:00",
+    "tags": "inshack",
+	"attributes": []
+}
