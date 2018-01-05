@@ -1,0 +1,13 @@
+{
+	"title": "SEC-T 0x0Anniversary",
+	"type": 0,
+	"description": "SEC-T is non-profit annual IT security conference held in Stockholm, Sweden.",
+	"website": "https://www.sec-t.org/",
+	"country": "SE",
+	"city": "Stockholm",
+	"address": "NALEN Regeringsgatan 74",
+	"starts": "2017-09-14T09:30:00+01:00",
+	"ends": "2017-09-15T18:30:00+01:00",
+    "tags": "sect,sect0x0A",
+	"attributes": []
+}

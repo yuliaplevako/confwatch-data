@@ -1,0 +1,13 @@
+{
+	"title": "Security Fest 2018",
+	"type": 0,
+	"description": "We’ll have a day filled with great talks by internationally renowned speakers on some of the most cutting edge and interesting topics in IT-security! Our attendees will learn from the best and the brightest, and will have a chance to get to know each other during the lunch, dinner, after-party and scheduled breaks.",
+	"website": "https://securityfest.com/",
+	"country": "SE",
+	"city": "Gothenburg",
+	"address": "Eriksbergshallen, Maskingatan 10",
+	"starts": "2018-06-01T09:30:00+01:00",
+	"ends": "2018-06-01T18:30:00+01:00",
+    "tags": "securityfest",
+	"attributes": []
+}
