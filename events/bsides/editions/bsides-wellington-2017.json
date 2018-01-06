@@ -1,0 +1,16 @@
+{
+	"title": "BSides Wellington 2017",
+	"type": 0,
+	"description": "BSidesWLG is a diverse and inclusive information security conference welcoming anyone and everyone interested in security and security related topics.",
+	"website": "https://www.bsides.nz/",
+	"country": "NZ",
+	"city": "Wellington",
+	"address": "Shed 6",
+	"starts": "2017-11-23T09:00:00+13:00",
+	"ends": "2017-11-24T18:00:00+13:00",
+	"tags": "bsides",
+	"attributes": [
+		"Code of Conduct",
+		"Financial Aid"
+	]
+}
