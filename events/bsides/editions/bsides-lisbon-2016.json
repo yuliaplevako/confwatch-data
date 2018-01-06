@@ -1,0 +1,13 @@
+{
+	"title": "BSides Lisbon 2016",
+	"type": 0,
+	"description": "BSidesLisbon is the premier technical information security conference in Portugal. It is a community organized, not for profit, conference started in 2013, providing opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, workshops, and interaction from participants.",
+	"website": "https://www.bsideslisbon.org/2016/",
+	"country": "PT",
+	"city": "Lisbon",
+	"address": "Rua Sinais de Fogo Lote 2.07.02, 1990-110 Lisboa",
+	"starts": "2016-11-11T09:00:00+01:00",
+	"ends": "2016-11-11T20:00:00+01:00",
+    "tags": "bsides",
+	"attributes": []
+}
