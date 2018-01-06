@@ -1,0 +1,15 @@
+{
+	"title": "BSides Canberra 2018",
+	"type": 0,
+	"description": "A Hacker Con in the Capital of Australia.",
+	"website": "https://www.bsidesau.com.au/",
+	"country": "AU",
+	"city": "Canberra",
+	"address": "Exhibition Park in Canberra",
+	"starts": "2018-04-13T09:00:00+10:00",
+	"ends": "2018-04-14T18:00:00+10:00",
+	"tags": "bsides",
+	"attributes": [
+		"Code of Conduct"
+	]
+}
