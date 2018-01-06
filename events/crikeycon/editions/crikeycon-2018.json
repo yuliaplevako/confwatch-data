@@ -1,0 +1,15 @@
+{
+	"title": "CrikeyCon 2018",
+	"type": 0,
+	"description": "CrikeyCon is a community-led conference targeting those with an interest in information security around South East Queensland and beyond.",
+	"website": "https://www.crikeycon.com/",
+	"country": "AU",
+	"city": "Brisbane",
+	"address": "Riverside Receptions",
+	"starts": "2018-02-24T08:00:00+10:00",
+	"ends": "2018-02-24T18:00:00+10:00",
+	"tags": "crikeycon",
+	"attributes": [
+		"Code of Conduct"
+	]
+}
