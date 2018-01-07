@@ -1,0 +1,13 @@
+{
+	"title": "LambdaConf 2018",
+	"type": 0,
+	"description": "LambdaConf organizes a series of educational events around the world designed to help new and experienced developers master the art of functional programming.",
+	"website": "https://lambdaconf2018.lambdaconf.us/en/",
+	"country": "US",
+	"city": "Boulder",
+	"address": "University of Colorado Boulder, 2450 Kittredge Loop Dr, Boulder, CO 80305",
+	"starts": "2018-06-03T14:00:00+01:00",
+	"ends": "2018-06-05T01:00:00+01:00",
+    "tags": "lambdaconf2018",
+	"attributes": []
+}
