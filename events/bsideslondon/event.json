@@ -1,1 +1,7 @@
 
+{
+	"title": "BSides London",
+	"description": "BSides London prides itself on being the conference for those interested in Information Security and is organized by the community for the community.",
+	"website": "https://www.securitybsides.org.uk",
+    "categories": [ "infosec" ]
+}
