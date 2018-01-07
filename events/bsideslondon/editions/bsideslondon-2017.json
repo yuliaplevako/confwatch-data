@@ -1,0 +1,13 @@
+{
+	"title": "BSides London 2017",
+	"type": 0,
+	"description": "Information Security conference where professionals, experts, researcher, and InfoSec enthusiasts come together to discuss the next big thing",
+	"website": "https://www.securitybsides.org.uk",
+	"country": "UK",
+	"city": "London",
+	"address": "ILEC Conference Centre, 47 Lillie Road London, SW6 1UD",
+	"starts": "2016-06-7T08:30:00+00:00",
+	"ends": "2016-06-7T18:30:00+00:00",
+  "tags": "bsides",
+	"attributes": []
+}
