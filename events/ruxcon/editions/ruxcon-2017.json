@@ -1,0 +1,15 @@
+{
+	"title": "Ruxcon 2017",
+	"type": 0,
+	"description": "Ruxcon is a computer security conference brings together the best and the brightest security talent within the Aus-Pacific region.",
+	"website": "https://ruxcon.org.au/",
+	"country": "AU",
+	"city": "Melbourne",
+	"address": "CQ Function Centre",
+	"starts": "2017-10-21T08:00:00+11:00",
+	"ends": "2017-10-22T18:00:00+11:00",
+	"tags": "ruxcon",
+	"attributes": [
+		"code-of-conduct"
+	]
+}

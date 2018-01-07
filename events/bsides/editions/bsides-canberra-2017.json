@@ -1,0 +1,16 @@
+{
+	"title": "BSides Canberra 2017",
+	"type": 0,
+	"description": "A Hacker Con in the Capital of Australia.",
+	"website": "https://www.bsidesau.com.au/",
+	"country": "AU",
+	"city": "Canberra",
+	"address": "Canberra Rex Hotel",
+	"starts": "2017-03-17T08:00:00+11:00",
+	"ends": "2017-03-18T17:00:00+11:00",
+	"tags": "bsides",
+	"attributes": [
+		"code-of-conduct",
+		"lodging-discount"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"title": "CrikeyCon 2017",
+	"type": 0,
+	"description": "CrikeyCon is a community-led conference targeting those with an interest in information security around South East Queensland and beyond.",
+	"website": "https://www.crikeycon.com/",
+	"country": "AU",
+	"city": "Brisbane",
+	"address": "Polina Club",
+	"starts": "2017-02-25T09:00:00+10:00",
+	"ends": "2017-02-25T18:20:00+10:00",
+	"tags": "crikeycon",
+	"attributes": [
+		"code-of-conduct"
+	]
+}
