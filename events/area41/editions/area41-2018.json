@@ -1,0 +1,15 @@
+{
+	"title": "Area41 2018",
+	"type": 0,
+	"description": "The premier technical security conference in Switzerland organized by DEFCON Switzerland.",
+	"website": "https://area41.io/",
+	"country": "CH",
+	"city": "Zurich",
+	"address": "X-TRA, Limmatstrasse 118, CH-8005 Zurich, Switzerland",
+	"starts": "2018-06-15T08:30:00+02:00",
+	"ends": "2018-06-16T18:00:00+02:00",
+    "tags": "area41",
+	"attributes": [
+            "code-of-conduct"
+        ] 
+}
