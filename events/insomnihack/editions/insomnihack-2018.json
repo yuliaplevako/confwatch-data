@@ -1,0 +1,13 @@
+{
+	"title": "Insomnihack 2018",
+	"type": 0,
+	"description": "Swiss security conference and ethical hacking contest",
+	"website": "https://insomnihack.ch/",
+	"country": "CH",
+	"city": "Geneva",
+	"address": "Palexpo, Route François-Peyrot 30, CH-1218 Grand-Saconnex, Switzerland",
+	"starts": "2018-03-22T08:30:00+01:00",
+	"ends": "2018-03-23T18:30:00+01:00",
+    "tags": "insomnihack",
+	"attributes": []
+}
