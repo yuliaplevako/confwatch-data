@@ -1,0 +1,13 @@
+{
+	"title": "BSides Zurich 2017",
+	"type": 0,
+	"description": "A free Information Security conference where professionals, experts, researchers, and InfoSec enthusiasts come together to discuss.",
+	"website": "https://bsideszh.ch/",
+	"country": "CH",
+	"city": "Zurich",
+	"address": "Open Systems AG, Räffelstrasse 29, CH-8045 Zurich, Switzerland",
+	"starts": "2017-09-23T09:00:00+02:00",
+	"ends": "2017-09-23T20:17:30+02:00",
+    "tags": "bsides",
+	"attributes": []
+}
