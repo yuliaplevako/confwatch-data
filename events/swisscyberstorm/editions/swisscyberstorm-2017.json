@@ -1,0 +1,13 @@
+{
+	"title": "SwissCyberStorm",
+	"type": 0,
+	"description": "Swiss Cyber Storm is an international IT security conference in the domain of cyber attacks and defense.",
+	"website": "https://www.swisscyberstorm.com/",
+	"country": "CH",
+	"city": "Lucerne",
+	"address": "KKL Luzern, Europaplatz 1, CH-6005 Lucerne, Switzerland",
+	"starts": "2017-10-18T08:30:00+02:00",
+	"ends": "2017-10-18T22:20:00+02:00",
+    "tags": "swisscyberstorm",
+	"attributes": []
+}
