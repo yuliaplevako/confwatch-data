@@ -1,0 +1,16 @@
+{
+	"title": "Electromagnetic Field 2018",
+	"type": 1,
+	"description": "Electromagnetic Field is a non-profit UK camping festival for those with an inquisitive mind or an interest in making things: hackers, artists, geeks, crafters, scientists, and engineers.",
+	"website": "https://www.emfcamp.org/",
+	"country": "UK",
+	"city": "Eastnor",
+	"address": "Eastnor Castle Deer Park, Herefordshire, HR8 1EN",
+	"starts": "2018-08-31T08:00:00+01:00",
+	"ends": "2018-09-02T23:59:59+01:00",
+        "tags": "emfcamp,emf2018",
+	"attributes": [
+            "code-of-conduct",
+            "kids-friendly"
+        ] 
+}

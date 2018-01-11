@@ -1,0 +1,16 @@
+{
+	"title": "Electromagnetic Field 2014",
+	"type": 1,
+	"description": "Electromagnetic Field is a non-profit UK camping festival for those with an inquisitive mind or an interest in making things: hackers, artists, geeks, crafters, scientists, and engineers.",
+	"website": "https://www.emfcamp.org/",
+	"country": "UK",
+	"city": "Bletchley",
+	"address": "Hounslow Hall Estate, Newton Longville",
+	"starts": "2014-08-29T08:00:00+01:00",
+	"ends": "2014-08-31T23:59:59+01:00",
+        "tags": "emfcamp",
+	"attributes": [
+            "code-of-conduct",
+            "kids-friendly"
+        ] 
+}
