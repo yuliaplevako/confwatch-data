@@ -1,0 +1,14 @@
+
+{
+	"title": "SwissCyberStorm",
+	"type": 0,
+	"description": "Swiss Cyber Storm is an international IT security conference in the domain of cyber attacks and defense.",
+	"website": "https://www.swisscyberstorm.com/",
+	"country": "CH",
+	"city": "Berne",
+	"address": "Kornhausstrasse 3, CH-3013 Berne, Switzerland",
+	"starts": "2018-10-30T08:30:00+02:00",
+	"ends": "2018-10-30T22:20:00+02:00",
+    "tags": "swisscyberstorm",
+	"attributes": []
+}
