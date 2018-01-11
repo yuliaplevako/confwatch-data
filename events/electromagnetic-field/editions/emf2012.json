@@ -1,0 +1,16 @@
+{
+	"title": "Electromagnetic Field 2012",
+	"type": 1,
+	"description": "Electromagnetic Field is a non-profit UK camping festival for those with an inquisitive mind or an interest in making things: hackers, artists, geeks, crafters, scientists, and engineers.",
+	"website": "https://www.emfcamp.org/",
+	"country": "UK",
+	"city": "Milton Keynes",
+	"address": "Pineham Park, Milton Keynes",
+	"starts": "2012-08-31T08:00:00+01:00",
+	"ends": "2012-09-02T23:59:59+01:00",
+        "tags": "emfcamp",
+	"attributes": [
+            "code-of-conduct",
+            "kids-friendly"
+        ] 
+}
