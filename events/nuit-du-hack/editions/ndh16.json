@@ -1,0 +1,15 @@
+{
+	"title": "NDH16",
+	"type": 0,
+	"description": "The Nuit du Hack comes back on June 30 - July 1 2018.",
+	"website": "https://nuitduhack.com",
+	"country": "FR",
+	"city": "Paris",
+	"address": "Cite des Sciences et de l Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
+	"starts": "2018-06-30T09:00:00+01:00",
+	"ends": "2018-07-01T07:00:00+01:00",
+	"tags": "ndh,nuitduhack,ndh16,hzv",
+	"attributes": [
+		"code-of-conduct"
+	]
+}
