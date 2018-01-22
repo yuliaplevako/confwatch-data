@@ -6,8 +6,8 @@
     "country": "UK",
     "city": "Belfast",
     "address": "Belfast Waterfront, 2 Lanyon Pl",
-    "starts": "2017-05-08T09:00:00+00:00",
-    "ends": "2017-05-12T20:00:00+00:00",
+    "starts": "2017-05-08T09:00:00+01:00",
+    "ends": "2017-05-12T20:00:00+01:00",
     "tags": "appsec-eu,appsec",
     "attributes": []
 }
