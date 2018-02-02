@@ -1,0 +1,13 @@
+{
+	"title": "FOSDEM'18",
+	"type": 0,
+	"description": "FOSDEM is a free event for software developers to meet, share ideas and collaborate.",
+	"website": "https://fosdem.org/2018/",
+	"country": "BE",
+	"city": "Brussels",
+	"address": "ULB, Campus du Solbosch, Av. F. D. Roosevelt 50",
+	"starts": "2018-02-03T09:00:00+01:00",
+	"ends": "2018-02-04T22:00:00+01:00",
+    "tags": "FOSDEM",
+	"attributes": []
+}
