@@ -1,0 +1,10 @@
+{
+	"title": "Hack In Paris",
+	"description": "Hack In Paris is an international IT security event organized every year by Sysdream. It covers hacking practices with a technical approach including both professional trainings and information aspects. During five days, attendees discover the realities of hacking, and its consequences for companies through conferences and trainings. The program includes state of the art IT security, industrial espionage, penetration testing, physical security, forensics, malware analysis techniques and countermeasures. The conferences and trainings are all exclusively in English.",
+	"website": "https://hackinparis.com/",
+	"categories": [
+		"infosec",
+		"cryptography",
+		"devconf"
+	]
+}
