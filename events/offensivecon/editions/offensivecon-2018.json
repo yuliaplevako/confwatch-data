@@ -1,0 +1,13 @@
+{
+	"title": "OffensiveCon 2018",
+	"type": 0,
+	"description": "OffensiveCon Berlin is a highly technical international security conference focused on offensive security only. The aim of OffensiveCon is to bring the community of hackers together for high quality and deep technical talks, engaging and renowned technical trainings. The talks at OffensiveCon are focused on offensive IT security topics such as vulnerability discovery, advanced exploitation techniques and reverse engineering. We strive to bring superb and unique speakers while offering affordable ticket prices for everyone. The conference is constructed as a single track of talks for two full days as well as technical trainings held in the days before the conference. Moreover, the conference will be hosting lightning talks as well, were attendees will have a chance to present any topic related to offensive security for 15 minutes to the entire audience.",
+	"website": "https://www.offensivecon.org/",
+	"country": "DE",
+	"city": "Berlin",
+	"address": "Mohrenstraße 30, 10117 Berlin, Germany",
+	"starts": "2018-02-12T09:00:00+01:00",
+	"ends": "2018-02-17T07:00:00+01:00",
+	"tags": "offensivecon",
+	"attributes": []
+}
