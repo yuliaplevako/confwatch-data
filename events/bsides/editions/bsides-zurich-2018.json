@@ -8,7 +8,7 @@
 	"address": "Open Systems AG, Räffelstrasse 29, CH-8045 Zurich, Switzerland",
 	"starts": "2018-09-22T09:00:00+02:00",
 	"ends": "2018-09-22T20:17:30+02:00",
-    "tags": "bsides,bsideszh,dfir,infosec,threatintel"
+    "tags": "bsides,bsideszh,dfir,infosec,threatintel",
 	"attributes": [
 		"code-of-conduct"
 		]
