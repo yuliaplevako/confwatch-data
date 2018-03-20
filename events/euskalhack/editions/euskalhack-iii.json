@@ -1,0 +1,15 @@
+{
+    "title": "EuskalHack Security Congress III",
+    "type": 0,
+    "description": "The goal of the congress is to foster the digital security community and culture for all kinds of interested audience (experts or beginners who want to get into the world of security), promoting and spreading mainly technical knowledge.",
+    "website": "https://securitycongress.euskalhack.org/",
+    "country": "ES",
+    "city": "Donostia",
+    "address": "Colegio Mayor Olarain",
+    "starts": "2018-06-22T09:00:00+01:00",
+    "ends": "2018-06-23T19:30:00+01:00",
+    "attributes": [
+        "lodging-discount",
+        "ctf"
+    ]
+}
