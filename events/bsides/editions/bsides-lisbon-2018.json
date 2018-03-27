@@ -1,0 +1,15 @@
+{
+	"title": "BSides Lisbon 2018",
+	"type": 0,
+	"description": "BSidesLisbon is the premier technical information security conference in Portugal. It is a community organized, not for profit, conference started in 2013 and is now on its 4th edition, providing opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, workshops, and interaction from participants.",
+	"website": "https://www.bsideslisbon.org/",
+	"country": "PT",
+	"city": "Lisbon",
+	"address": "ISCTE-IUL - Av. Prof. Aníbal Bettencourt 9, 1600 Lisboa",
+	"starts": "2018-11-29T14:00:00+01:00",
+	"ends": "2018-11-30T20:00:00+01:00",
+    "tags": "bsides,bsideslisbon",
+	"attributes": [
+           "code-of-conduct"
+        ]
+}
