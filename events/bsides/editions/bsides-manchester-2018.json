@@ -1,0 +1,13 @@
+{
+	"title": "BSides Manchester 2018",
+	"type": 0,
+	"description": "BSides Manchester is one of the UK premier technical cybersecurity conferences.  It is run under a Community Interest Company (CIC) and is a not for profit company and event.  It is an inclusive event for everyone in the info-sec community and organised by handful of dedicated Security Professionals volunteers who give up their own time, skills and knowledge for free.  If you think you could help organise the event, then contact us on info@bsidesmcr.org.uk.",
+	"website": "https://www.bsidesmcr.org.uk/",
+	"country": "UK",
+	"city": "Manchester",
+	"address": "Manchester Metropolitan University Business School, All Saints Campus, Oxford Road, Manchester, M15 6BH",
+	"starts": "2018-08-16T08:00:00+00:00",
+	"ends": "2018-08-16T18:00:00+00:00",
+  	"tags": "bsides",
+	"attributes": ["code-of-conduct"]
+}
