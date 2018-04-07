@@ -1,0 +1,15 @@
+{
+   "title": "hardwear.io Security Conference 2018",
+   "type": 0 2,
+   "description": "Hardwear.io was conceptualized to provide the IT and security community with a platform to discuss and solve the issues pertaining to hardware security. The objective of the conference revolves around four key concerns in hardware, firmware, and related protocols i.e. backdoors, exploits, trust, and attacks.",
+   "website": "https://hardwear.io/",
+   "country": "NL",
+   "city": "The Hague",
+   "address": "NH DEN HAAG",
+   "starts": "2018-09-11T09:00:00+02:00",
+   "ends": "2018-09-14T18:00:00+02:00",
+   "tags": "hardwear_io",
+   "attributes": [
+            "code-of-conduct"
+        ] 
+}
